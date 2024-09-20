@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DAFBBE76-5EBB-47D9-8CB4-12DBD1D8B066}") = "TitleBarApp", "TitleBarApp.csproj", "{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAF7279-1D69-4087-ACA1-56EFB6ECAEA6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		        SolutionGuid = {F99B192D-6819-4AED-BF1F-8CF05B0FB4D9}
+	EndGlobalSection
+EndGlobal
